@@ -1,0 +1,9 @@
+Z,J,G
+Q,L,R,P,W,N,V,C
+F,P,M,C,L,G,R
+L,F,B,W,U,F,M
+G,C,F,S,V,Q
+W,H,J,Z,M,Q,D,L
+H,F,S,B,V
+F,J,Z,O
+E,C,D,L,F,H,B,T
